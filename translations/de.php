@@ -1,0 +1,37 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_5d5ae1fe716f1a924fe3bf0bd2435249'] = 'Cross-Selling Gruppen';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_adf8f32c530e755c30bd7a074d6aa319'] = 'Cross-Selling Gruppen.';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_69a1a3ad8dd5da6db3c4da838a0cf9c7'] = 'Sind Sie sicher, dass Sie Ihre Daten löschen?';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_814f02e9bc38401c6765f3f63d49ba26'] = 'Cross-Selling Gruppen';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_c03d53b70feba4ea842510abecd6c45e'] = 'Bild';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_49ee3087348e8d44e1feda1917443987'] = 'Name';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_63d5049791d9d79d86e9a108b0a999ca'] = 'Artikel-Nr. ';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_694e8d1f2ee056f98ee488bdc4982d73'] = 'Menge';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_52f5e0bc3859bc5f5e25130b6c7e8881'] = 'Position';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_f2a6c498fb90ee345d997f888fce3b18'] = 'Löschen';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_4e140ba723a03baa6948340bf90e2ef6'] = 'Name:';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_1412292b09d3cd39f32549afb1f5f102'] = 'Ausgewählte Elemente löschen?';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_3148ed3cf90ac27628132ebfbafdf619'] = 'Keine Produkte angegeben!';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_0a224037a3078cea03f41134cca466dd'] = 'Keine Gruppen definiert!';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_022060dc4423e67ebc1763063b851e0e'] = 'Fehler beim speichern! (Gruppe: %s, Produkt: %s)';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_1873d4ac983c6be4ff427c8bf7c0f804'] = 'Cross-Selling Produkt nicht gefunden!';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_606804bebddc14c694f10a1a62125018'] = 'Cross-Selling Gruppe nicht gefunden!';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>admincrosssellingcontroller_49ee3087348e8d44e1feda1917443987'] = 'Name';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>admincrosssellingcontroller_52f5e0bc3859bc5f5e25130b6c7e8881'] = 'Position';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>admincrosssellingcontroller_d3b206d196cd6be3a2764c1fb90b200f'] = 'Auswahl löschen';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>admincrosssellingcontroller_e25f0ecd41211b01c83e5fec41df4fe7'] = 'Ausgewählte Elemente löschen?';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>admincrosssellingcontroller_c6155aaecccf794cd2a00fcc35898022'] = 'Gruppenname';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>admincrosssellingcontroller_c9cc8cce247e49bae79f15173ce97354'] = 'Speichern';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>admincrosssellingcontroller_3bc18b9a688cd9ee9c915cb0023a8d74'] = 'Neue Gruppe hinzufügen';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>admincrosssellingcontroller_9957a1085e76aee14a5ef47dc4e0bb4e'] = 'Erfolgreich gelöscht.';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>admincrosssellingcontroller_586a6d699e39319c1cb3998285c86e19'] = 'Fehler beim löschen!';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_13a7ed2dbf42998d37cfec32aeb30525'] = 'Cross-Selling Gruppen';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_37afd2c04951dc8bbe88d1f40ab1bef2'] = 'Cross-Selling Produkt';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_e873cec904563174618033e15b9f3b68'] = 'Cross-Selling Gruppe';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_c4d62328f027acdfd2ae6f9446740374'] = 'Speichern nicht vergessen!';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_b112803ab9deb7deba2a6b24ef3bb91a'] = 'Neue Gruppe';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_d3da97e2d9aee5c8fbe03156ad051c99'] = 'Mehr';
+$_MODULE['<{m00ncr4wlercrossselling}prestashop>m00ncr4wlercrossselling_2d0f6b8300be19cf35e89e66f0677f95'] = 'In den Warenkorb';

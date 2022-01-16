@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>m00ncr4wlercrossselling</name>
+	<displayName><![CDATA[Cross-Selling Gruppen]]></displayName>
+	<version><![CDATA[0.1.1]]></version>
+	<description><![CDATA[Cross-Selling Gruppen.]]></description>
+	<author><![CDATA[m00ncr4wler - David Heinz]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Sind Sie sicher, dass Sie Ihre Daten löschen?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

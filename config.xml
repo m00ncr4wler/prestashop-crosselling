@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>m00ncr4wlercrossselling</name>
+    <displayName><![CDATA[Grouped cross selling]]></displayName>
+    <version><![CDATA[0.1.0]]></version>
+    <description><![CDATA[Grouped cross selling.]]></description>
+    <author><![CDATA[David Heinz]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+    <limited_countries></limited_countries>
+</module>
